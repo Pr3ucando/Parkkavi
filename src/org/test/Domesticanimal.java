@@ -18,8 +18,15 @@ public class Domesticanimal extends Animal {
 	@Override
 	public void cat() {
 		// TODO Auto-generated method stub
-	System.out.println("Cat is meow");
-	System.out.println("Page 1");
+		
+		System.out.println("Cat is meow");
+		System.out.println("Page 1");
+	System.out.println("Cat is meow");	
+	
+	System.out.println("Page 2");
+
+	
+
 	}
 
 }
